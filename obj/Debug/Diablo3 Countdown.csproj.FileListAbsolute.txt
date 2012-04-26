@@ -1,0 +1,13 @@
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\ResolveAssemblyReference.cache
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\App.g.i.cs
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\MainPage.g.i.cs
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\Diablo3 Countdown.g.resources
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\ApplicationIcon.png
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\Background.png
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\Diablo3 Countdown.dll
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\Diablo3 Countdown.pdb
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\AppManifest.xaml
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\Bin\Debug\Diablo3_Countdown.xap
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\Diablo3 Countdown.dll
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\Diablo3 Countdown.pdb
+c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\XapCacheFile.xml
