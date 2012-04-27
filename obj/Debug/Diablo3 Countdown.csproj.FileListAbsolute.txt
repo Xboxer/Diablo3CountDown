@@ -11,3 +11,42 @@ c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diabl
 c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\Diablo3 Countdown.dll
 c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\Diablo3 Countdown.pdb
 c:\users\christoph\documents\visual studio 2010\Projects\Diablo3 Countdown\Diablo3 Countdown\obj\Debug\XapCacheFile.xml
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\ApplicationIcon.png
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Background.png
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Diablo3 Countdown.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Diablo3 Countdown.pdb
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\AppManifest.xaml
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Diablo3_Countdown.xap
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\App.g.i.cs
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\MainPage.g.i.cs
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\Diablo3 Countdown.g.resources
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\Diablo3 Countdown.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\Diablo3 Countdown.pdb
+C:\Users\kaliadm\Documents\Diablo3CountDown\obj\Debug\XapCacheFile.xml
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\kaliadm\Documents\Diablo3CountDown\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
