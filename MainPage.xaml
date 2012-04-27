@@ -28,12 +28,13 @@
         <!--ContentPanel - zusätzliche Inhalte hier platzieren-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <Image Height="382" HorizontalAlignment="Left" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="456" Source="/Diablo3%20Countdown;component/Images/diablo3logo.jpg" />
-            <TextBlock Height="70" HorizontalAlignment="Center" Margin="6,388,6,0" Name="Countdown" Text="99:99:99:99" VerticalAlignment="Top" Width="444" FontSize="64" FontStyle="Normal" Loaded="Countdown_Loaded" TextAlignment="Center" Foreground="#FFD41313" FontFamily="/Diablo3 Countdown;component/Fonts.zip#Diablo" />
+            <TextBlock Height="70" HorizontalAlignment="Center" Margin="6,388,6,0" Name="Countdown" Text="Processing..." VerticalAlignment="Top" Width="444" FontSize="64" FontStyle="Normal" Loaded="Countdown_Loaded" TextAlignment="Center" Foreground="#FFD41313" FontFamily="/Diablo3 Countdown;component/Fonts.zip#Diablo" />
             <my:AdControl AdUnitId="Image480_80" ApplicationId="test_client" Height="80" HorizontalAlignment="Left" Margin="0,604,0,0" Name="adControl1" VerticalAlignment="Top" Width="456" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="79,450,0,0" Name="textBlock1" Text="Days" VerticalAlignment="Top" Width="72" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="157,450,0,0" Name="textBlock2" Text="Hours" VerticalAlignment="Top" Width="72" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="235,450,0,0" Name="textBlock3" Text="Minutes" VerticalAlignment="Top" Width="72" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="325,450,0,0" Name="textBlock4" Text="Seconds" VerticalAlignment="Top" Width="72" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="55,450,0,0" Name="textBlock1" Text="Days" VerticalAlignment="Top" Width="72" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="148,450,0,0" Name="textBlock2" Text="Hours" VerticalAlignment="Top" Width="72" d:LayoutOverrides="HorizontalAlignment" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="240,450,0,0" Name="textBlock3" Text="Minutes" VerticalAlignment="Top" Width="72" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="341,450,0,0" Name="textBlock4" Text="Seconds" VerticalAlignment="Top" Width="72" />
+            <TextBlock Margin="55,326,59,305" TextWrapping="Wrap" Text="15 May 2012" FontSize="48" FontFamily="/Diablo3 Countdown;component/Fonts.zip#Diablo" TextAlignment="Center" Name="textblockRelease" />
         </Grid>
     </Grid>
  
